@@ -154,16 +154,15 @@ predictive-pulse/
 
 ## About
 
-Designed and built by **[Your Name]** for **Avishkar 2026**.
+Designed and built by Shivam Ambilwade for Avishkar 2026.
 
-- LinkedIn: [your link]
-- Email: [your email]
+- LinkedIn: https://www.linkedin.com/in/shivam-ambilwade-a3a9a1245/
+- Email: shivamcreations609@gmail.com
 
 Feedback from people in manufacturing, maintenance and Edge-AI is very welcome. Please open an issue or message me.
 
 ## License
-
-[Choose a license, for example MIT, and add a `LICENSE` file.]
+MIT License
 
 ## Tags
 
